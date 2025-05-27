@@ -152,6 +152,18 @@ A line chart showing the average healing trend per treatment group over time:
 ```
 ![Category-wise Average Wound Healing Curve](https://raw.githubusercontent.com/yuvrajtiwary-bitmesraece/rat-wounds/main/Category-wise%20Average%20Wound%20Healing%20Curve.png)
 
+### 4. Some visualizations
+
+I have written a cell where we can visualize the segmentation polygon overlay overlay over raw images, its visualization in xy plane with all marked boundary coordinate points and atlast a step by step manual calculation will also be generated for that day that rat image. Do check this out as last third cell in my attached colab notebook!
+
+Control 1 rat's Day 1 wound analysis :-
+
+![Wound Segmented](https://raw.githubusercontent.com/yuvrajtiwary-bitmesraece/rat-wounds/main/Wound%20Segmented.png)
+
+Manual Calculations step by step for area calculation :-
+
+![Manual Calculations](https://raw.githubusercontent.com/yuvrajtiwary-bitmesraece/rat-wounds/main/Manual%20Calculations.png)
+
 ## Thank You
 
 Grateful for your time and attention — it truly means a lot!
